@@ -3,15 +3,15 @@ package Chapter3;
 import java.util.Scanner;
 
 /**
- *Programs displays whether you were correct
- or wrong at guessing cpu heads or tails
+ * Programs displays whether you were correct or wrong at guessing cpu heads or
+ * tails
  *
  * @author Darrius Stewart
  */
 public class C3_14 {
 
     /**
-     *Main Method
+     * Main Method
      *
      * @param args arguments from command line prompt
      */

@@ -3,14 +3,14 @@ package Chapter2;
 import java.util.Scanner;
 
 /**
- *Program displays the tip and total cost of a users meal
+ * Program displays the tip and total cost of a users meal
  *
  * @author Darrius Stewart
  */
 public class C2_5 {
 
     /**
-     *Main Method
+     * Main Method
      *
      * @param args arguments from command line prompt
      */
