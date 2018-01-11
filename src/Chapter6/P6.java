@@ -64,7 +64,7 @@ public class P6 {
     }
 
     /**
-     * Currency Converter Method
+     * Currency Converter Method ...
      *
      * @param dcon amount dollars we are converting
      * @param currency amount of currency we are converting
