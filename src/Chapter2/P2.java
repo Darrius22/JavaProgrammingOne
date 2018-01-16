@@ -3,16 +3,15 @@ package Chapter2;
 import java.util.Scanner;
 
 /**
- *Program displays price of food, sales tax amount, 
- tip amount the user should give, and total cost of 
- food of users meal
+ * Program displays price of food, sales tax amount, tip amount the user should
+ * give, and total cost of food of users meal
  *
  * @author Darrius Stewart
  */
 public class P2 {
 
     /**
-     *Main Method
+     * Main Method
      *
      * @param args arguments from command line prompt
      */

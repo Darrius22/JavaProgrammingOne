@@ -3,14 +3,14 @@ package Chapter2;
 import java.util.Scanner;
 
 /**
- *Program displays the conversion of celsius to fahrenheit
+ * Program displays the conversion of celsius to fahrenheit
  *
  * @author Darrius Stewart
  */
 public class C2_1 {
 
     /**
-     *Main Method
+     * Main Method
      *
      * @param args arguments from command line prompt
      */
